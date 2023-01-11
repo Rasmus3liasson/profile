@@ -1,0 +1,22 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasmus3liasson/profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasmus3liasson/profile/issues"
+  },
+  "homepage": "https://github.com/Rasmus3liasson/profile#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
